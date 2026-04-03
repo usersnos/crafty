@@ -1,0 +1,68 @@
+{
+  "8174410809": {
+    "user_id": 8174410809,
+    "inventory": {
+      "stick": 14,
+      "wood": 37,
+      "apple": 4,
+      "meat": 21,
+      "iron_ingot": 1,
+      "healing_potion": 6,
+      "bread": 20,
+      "golden_apple": 10,
+      "netherite_ingot": 5,
+      "ancient_debris": 3,
+      "netherite_sword": 1,
+      "diamond_sword": 1
+    },
+    "health": 20,
+    "max_health": 20,
+    "level": 1,
+    "xp": 5,
+    "xp_to_next": 100,
+    "location": "forest",
+    "equipped": {
+      "weapon": null,
+      "helmet": null,
+      "chestplate": null,
+      "leggings": null,
+      "boots": null
+    },
+    "quests": [],
+    "quest_progress": {},
+    "total_damage_dealt": 31,
+    "total_mobs_killed": 1,
+    "play_time": 1775116275.5730476
+  },
+  "6640778776": {
+    "user_id": 6640778776,
+    "inventory": {
+      "apple": 28,
+      "wood": 5,
+      "stick": 1,
+      "bread": 10,
+      "meat": 10,
+      "golden_apple": 5,
+      "netherite_sword": 1,
+      "diamond_sword": 1
+    },
+    "health": 20,
+    "max_health": 20,
+    "level": 1,
+    "xp": 80,
+    "xp_to_next": 100,
+    "location": "forest",
+    "equipped": {
+      "weapon": null,
+      "helmet": null,
+      "chestplate": null,
+      "leggings": null,
+      "boots": null
+    },
+    "quests": [],
+    "quest_progress": {},
+    "total_damage_dealt": 389,
+    "total_mobs_killed": 16,
+    "play_time": 1775116876.6135015
+  }
+}
